@@ -1,1 +1,3 @@
 # Virtual-Mouse-using-Eye
+
+Developing a virtual mouse control system using eye movements poses challenges in accuracy, real-time responsiveness, and user adaptability. The project aims to design and implement a robust virtual mouse interface that accurately tracks eye movements, translates them into mouse cursor movements, and provides intuitive control for users with varying degrees of motor impairment. The system must address issues such as calibration accuracy, user fatigue, and adaptability to different eye movement patterns, while ensuring seamless integration with existing operating systems and applications.
